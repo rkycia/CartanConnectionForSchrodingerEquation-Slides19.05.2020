@@ -1,2 +1,1 @@
-# CartanConnectionForSchrodingerEquation-Slides19.05.2020
-CartanConnectionForSchrodingerEquation-Slides19.05.2020
+# Cartan Connection For Schrodinger Equation - Slides19.05.2020
